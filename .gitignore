@@ -6,3 +6,13 @@
 /spring-**/.mvn
 /spring-**/.DS_Store
 /spring-**/.gitignore
+
+
+/rest-**/target/
+/rest-**/.idea
+/rest-**/*.iml
+/rest-**/mvnw
+/rest-**/mvnw.cmd
+/rest-**/.mvn
+/rest-**/.DS_Store
+/rest-**/.gitignore
